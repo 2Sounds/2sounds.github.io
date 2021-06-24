@@ -1,7 +1,8 @@
 ---
 ---
 
-@import " ";
+@import "style.css";
 
+body{
 
-background: red;
+background: red; }
