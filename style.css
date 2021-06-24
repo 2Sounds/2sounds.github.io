@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "";
-
-body{
+@import "
+  body{
 background: red;}
+";
+
